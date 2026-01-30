@@ -1,1 +1,5 @@
 node_modules/
+
+assets/*/*.bson
+
+assets/*/dump.tar.gz
